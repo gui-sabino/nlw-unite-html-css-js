@@ -1,2 +1,2 @@
 # NLW Unite - HTML, CSS & JS
-Projeto finalizados juntamente com o certificado emitido pela RocketSeat no Bootcamp NLW Unite
+Projeto finalizado juntamente com o certificado emitido pela RocketSeat no Bootcamp NLW Unite
